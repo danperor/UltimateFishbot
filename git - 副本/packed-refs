@@ -1,0 +1,13 @@
+# pack-refs with: peeled fully-peeled sorted 
+99073ce13c55b39c3b0cca3ca0d60d3dc5e2b4a0 refs/remotes/origin/CSharp
+cb7408c7a00d59f4290f3a19e72784fa664e7f30 refs/remotes/origin/vb-old
+8effb752fb33f27d0f04ebd147290251e86e0bc4 refs/tags/4.5.0.0
+67828bdb9910cece60f9b0a86635bde8a56765b1 refs/tags/4.5.1.0
+77706cdc371580263ebd892b13b8b296af44d8bf refs/tags/FishBot
+7037263a35f7e239ec09acd33196133d6a0db05f refs/tags/Fishbot-4.0.16
+8c9dcdcd8de09cd50cce45abe88fbc8f4c269f06 refs/tags/Fishbot-4.0.18
+71c417eb3bf6d01b9ae8a8cf7741b93864a56894 refs/tags/Fishbot-4.0.24
+f28f656c95cb161a49d17b5ff3c3930a5176a3c3 refs/tags/Fishbot-4.0.27
+c1dfb190ca3cbc582a23157144376e9ca0fcd011 refs/tags/Fishbot-4.0.31
+f6675ea9be26dc4291ef26ce20e65f16d7cb67cc refs/tags/Fishbot-4.0.36
+ce72418456a930331286728860cd2e260ded4d81 refs/tags/Fishbot-4.1.01
